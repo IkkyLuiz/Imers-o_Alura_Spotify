@@ -1,7 +1,7 @@
 
 # Recriação da Interface do Spotify
 
-Este é um projeto de recriação da interface do **Spotify** utilizando **HTML**, **CSS** e **JavaScript**. O objetivo é replicar a estrutura visual e a funcionalidade básica da plataforma de streaming de música, proporcionando uma experiência de usuário semelhante à original.
+Este é um projeto de recriação da interface do **Spotify** utilizando **HTML**, **CSS** e **JavaScript**, que foi aprendido na **Imersão Front-End da Alura**. O objetivo é replicar a estrutura visual e a funcionalidade básica da plataforma de streaming de música, proporcionando uma experiência de usuário semelhante à original.
 
 ## Tecnologias Utilizadas
 
@@ -51,11 +51,6 @@ Este é um projeto de recriação da interface do **Spotify** utilizando **HTML*
 └── /js              # Scripts JavaScript
     └── script.js
 ```
-
-## Capturas de Tela
-
-Aqui estão algumas imagens da interface do projeto:
-![Playlist Page](./assets/screenshot-playlist.png)
 
 ## Contribuições
 
