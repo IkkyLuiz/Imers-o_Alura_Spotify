@@ -55,8 +55,6 @@ Este é um projeto de recriação da interface do **Spotify** utilizando **HTML*
 ## Capturas de Tela
 
 Aqui estão algumas imagens da interface do projeto:
-
-![Home Page](./assets/screenshot-home.png)
 ![Playlist Page](./assets/screenshot-playlist.png)
 
 ## Contribuições
